@@ -1,0 +1,3 @@
+CREATE SCHEMA [OzarTools]
+AUTHORIZATION [dbo]
+GO

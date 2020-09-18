@@ -1,0 +1,3 @@
+CREATE SCHEMA [ToolSettings]
+AUTHORIZATION [dbo]
+GO
